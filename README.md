@@ -37,7 +37,7 @@ Billing Software for Restaurants, Cafes, Grocery Stores, Retail Shops, SME and E
 ✅ Best in class web support  
 
 ### Hotel Management Software
-**Explore**: [GST Retail Billing Software](https://business.jhattse.com/products/hotel-management-software)  
+**Explore**: [Hotel Management Software](https://business.jhattse.com/products/hotel-management-software)  
 #### Hightlight Features  
 ✅ Easy to use UI  
 ✅ Fast, Responsive and Bug Free  
