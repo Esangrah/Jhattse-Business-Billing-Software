@@ -1,7 +1,11 @@
 {
-  "version": "2.3.2",
+  "version": "2.3.5",
   "notes": "Jhattse Business",
-  "pub_date": "2025-01-04",
-  "url": "https://raw.githubusercontent.com/Esangrah/Jhattse-Business-Billing-Software/refs/heads/master/Jhattse-Business_2.3.2_x64-setup.exe",
-  "sha256": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmNmY2R2YjhiVjFzOVhkNXpwUDhGMTJPdEZNNzdoR2hCaU5SNVpkUG5kelJHaW92emYwTm5uUkN1MU9rYzJRT1gxVFZydlZPTklVNko2QnZvcjRHV2V4bU5yVjBrWWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM3MjAzODA0CWZpbGU6SmhhdHRzZS1CdXNpbmVzc18yLjMuMl94NjQtc2V0dXAuZXhlCnpmVkxlWFdSQmVqZm8xV1dXanE1LzduM0N4VzJKM0hFci9MYkoyQzFUMHZoMkZabjQ2RkRtL0hNY2JLTGRhdHhiSzk3TDRtR0ZMU3VCYU5WM1dMTUJRPT0K"
+  "pub_date": "2025-02-22",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://raw.githubusercontent.com/Esangrah/Jhattse-Business-Billing-Software/refs/heads/master/Jhattse-Business_2.3.5_x64-setup.exe",
+      "sha256": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmNmY2R2YjhiVjNrekxhbWV3a1ZCWEl1bmRDTFhzYjJCOFhETnUvc3VVai9iREVHTmh0UVNOaWhKQUlHbnJIWEZJQzdTRXU1cW9nMlp0MUY4TFkxeVArK1dmYktZYVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQwMjAzMjcyCWZpbGU6SmhhdHRzZS1CdXNpbmVzc18yLjMuNV94NjQtc2V0dXAuZXhlCkVvZEVSSVc0N1ZYcHlFWHpGT3NpZm9vYkduZ0k3RGo4ajk3QjYxNFlzblFUdXg5RlNKaW5yaC9wMS9YQU53OGhtWU15R1kwS0M2QXZOamp4THQrWERnPT0K"
+    }
+  }
 }
