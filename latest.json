@@ -4,7 +4,7 @@
   "pub_date": "2025-08-06T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/Esangrah/Jhattse-Business-Billing-Software/refs/heads/master/Jhattse-Business_2.4.0_x64_en-US.msi",
+      "url": "https://raw.githubusercontent.com/Esangrah/Jhattse-Business-Billing-Software/refs/heads/PMS-Cloud/Jhattse-Business_2.4.0_x64_en-US.msi",
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmNmY2R2YjhiVjJLdWhxQ096Z3RBTXJDODh5Qm9vR29zN3pCbFF1RWs1RTFuTk9oWGY2eVVXSUc0c2k3cEE2UnJGT1YybmV4MjQwbUtwM1ZMaHJSUEJtcDdpUkJqVHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU0NDkyNjQ5CWZpbGU6SmhhdHRzZS1CdXNpbmVzc18yLjQuMF94NjRfZW4tVVMubXNpCk53eGxTTE5zaWRaZEVGVENuRlROMkJjS3FNN2NaY0RvV0tLRWNncDdjTC9CbGlTVlRvQzNvcFRRVzBqZDZNZnZSelo4aHloTGw1N2NGVzExMW1DekFRPT0K"
     }
   }
