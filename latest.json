@@ -1,11 +1,11 @@
 {
   "notes": "PMS Cloud",
-  "version": "2.4.12",
+  "version": "2.4.13",
   "pub_date": "2025-10-30T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/Esangrah/Jhattse-Business-Billing-Software/refs/heads/PMS-Cloud/PMS-Cloud_2.4.12_x64_en-US.msi",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmNmY2R2YjhiVjRmYTI1ZVB2M1dIeFl2TWFIbndjSTV4SS8xMHBWWHBrYXQyUTZjL0hyeG04RGZtZnVOTkhPak0ycFNaV0dOemdnM2EyTm14Qm5wZHNLWkE5RFEzUWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxODQzODQ2CWZpbGU6UE1TLUNsb3VkXzIuNC4xMl94NjRfZW4tVVMubXNpCkJSNCt1KzBndmtpS2ZkMFVBVWJPaFJmUS9rd2xZaGdzYnMrWTF0SUE4dXBBczhBcVUyTHdUTkorK3hTeXJReVRrdUd5K3U2Z1ZSbVJ1bVF3K0diMEJ3PT0K"
+      "url": "https://raw.githubusercontent.com/Esangrah/Jhattse-Business-Billing-Software/refs/heads/PMS-Cloud/PMS-Cloud_2.4.13_x64_en-US.msi",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmNmY2R2YjhiVjFqazNwRGNvVnAvblpZby9xNGJJV2dFMk5sckN2OHpOdHBZdFRiVXZOaThBL3djYk1EWlF6cXhpbGpZa3RSS0I1cmFVa1dESXRBckVwczduTlA1dEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxOTI5MzI3CWZpbGU6UE1TLUNsb3VkXzIuNC4xM194NjRfZW4tVVMubXNpCnNBc1NxVHFHL2RKTU0yOFhNZ2hYQ3dtZzM0aTZPNlE0V29jeU9CTGhEVTd6SEtwR1VaZkxpYjdPWWU3VytYWHJuR0VHU1hBaTltYUYzL0ltUXltUkJ3PT0K"
     }
   }
 }
