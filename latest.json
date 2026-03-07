@@ -1,11 +1,11 @@
 {
   "notes": "Jhattse Business",
-  "version": "2.4.21",
-  "pub_date": "2026-20-03T00:00:00Z",
+  "version": "2.4.22",
+  "pub_date": "2026-07-20T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/Esangrah/Jhattse-Business-Billing-Software/refs/heads/master/Jhattse-Business_2.4.21-US.msi",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmNmY2R2YjhiVjh3d0MzK3ZrMmRTZWVWVlkyS3hKN0lqM3BVcmNLT1o2NzBFUEpzOUs3Q21pbitoQ2UxU0ZVdXVqT1pQNkc3SC82QWlIT1JWTDZCeVEwYkJxUHJFZ0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNDQwMzY5CWZpbGU6SmhhdHRzZS1CdXNpbmVzc18yLjQuMjFfeDY0X2VuLVVTLm1zaQp2NXExcGhBVnhwZytlV2JHbGhaMUx3SVFGSkF3Z0wydm1PeDFaRzFEaUg4aUh5VXkrS1NJbmQ2RzNWa215VkNtSndDL3QrZkU1NWN5OTAwZEMxY1VDQT09Cg=="
+      "url": "https://raw.githubusercontent.com/Esangrah/Jhattse-Business-Billing-Software/refs/heads/master/Jhattse-Business_2.4.22-US.msi",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmNmY2R2YjhiVjhRL05rRDljSlE0RGF1U3pyRzNucGttVGNIRE5rSWhNOWk0NzNGMnp0WFoxKzlSZ0xhOXU4aVZOWWF0RWxIVHpPNFl6RWJoajUvWmRoWlFxTEx5ZUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyODc2NzI5CWZpbGU6SmhhdHRzZS1CdXNpbmVzc18yLjQuMjJfeDY0X2VuLVVTLm1zaQpsbm12MlNjU0poakVHaGpWRTZBcUtpeGkyWmRhcFovN055cjRieGJSVjZTbHE3K1EzVVd4L3FoSUFvdldOWTBnTVloTS9WNlZtTkdMTHNtdE9SdytDQT09Cg=="
     }
   }
 }
