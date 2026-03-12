@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "url": "https://raw.githubusercontent.com/Esangrah/Jhattse-Business-Billing-Software/refs/heads/master/Jhattse-Business_2.4.27_x64_en-US.msi",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmNmY2R2YjhiVjU0eDN6Um95VVpsVFoycHVxSEcxMEw1by9QSSs0bjl4YzNnUUVmOVNCa2JXNk5zTE80YVpzWHZ1UDM2S212cFdUNXArbVRtNUhGK2swTjA1WGNLN0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczMzA0ODUyCWZpbGU6SmhhdHRzZS1CdXNpbmVzc18yLjQuMjdfeDY0X2VuLVVTLm1zaQp0M1lPS1cxUGNSM3lydWRkN3BnSG16UjhDcElOM3J5Y0xYa0k1RjNQbEFScUxoL0I3YUFONTdEUmJLekxyRmFZdGxtY0xyTmFQQ2ZPWmZHQVhtS09EZz09Cg=="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmNmY2R2YjhiVnhHZytVdW95bG8wMzlnaWV6enFjUkFZbDlsNXNsQXhRZFk4ODV6M210Z2lMUmpkUFhxQW5ZMTdweXBEYkxLWUhsLzRzSGlRaVozVXFFNURPZzZuU1FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczMzE2NDYwCWZpbGU6SmhhdHRzZS1CdXNpbmVzc18yLjQuMjdfeDY0X2VuLVVTLm1zaQpuaE1KQk4vYVdRWEs2TkZ6a1BYWm1tcDV5T0FzdURoV0RMdzVRVG5ZZlhDYXRtUDlGMG9hR3lBZnBGWktzVCs2dDdidWF3d2kvd1hwV1E0ZW9iSy9BUT09Cg=="
     }
   }
 }
