@@ -1,11 +1,11 @@
 {
   "notes": "Profitlabs",
-  "version": "2.5.2",
-  "pub_date": "2026-05-25T00:00:00Z",
+  "version": "2.5.3",
+  "pub_date": "2026-05-26T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/Esangrah/Jhattse-Business-Billing-Software/refs/heads/profitlabs/Profitlabs_2.5.2_x64_en-US.msi",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmNmY2R2YjhiVitnVGlKeEFhZXBDM2VkTW0yZnA5MGdXRXlFdlJNQWRSRjdzRloyV3l4M014S2FNcWxjOTRQSEFRTVhRVllkT24xYkxwQ0ViU2xXMGlSeXJET0w0akFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NzA5MTAyCWZpbGU6UHJvZml0bGFic18yLjUuMl94NjRfZW4tVVMubXNpClgvMEs0anlSOHlsQ3h0alAvcVF5TFdUS2w1K2NpK0J0VVZLL05jV2xzNC8wNEtZWk45Z2xiYzZTUE42TDJEK1BPblZVQTlxQnd5WXJoUjNzZXpITkNBPT0K"
+      "url": "https://raw.githubusercontent.com/Esangrah/Jhattse-Business-Billing-Software/refs/heads/profitlabs/Profitlabs_2.5.3_x64_en-US.msi",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmNmY2R2YjhiVjA1dmk5eGdTWFNDVWVhcjVHVkVPVWVjS3RuSkhaVWNKaU9hbmF3ZHFIdTM0cmk2SXMrczBNVFNCSXlHZUhlNWFoRkZOUXl1S2xMWDh1VnczU3JNMHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5Nzk5NDgyCWZpbGU6UHJvZml0bGFic18yLjUuM194NjRfZW4tVVMubXNpCnZwSzRhZ0FoVTdHWU1yVGthQWNiQ3RvVWVKVHlhTndBb2JUb0tTZm16Tk5tU2h1ZkxIMGJYalZvR05Kb21HYWw1L0t5M0g3ck1sT0JDZ3hrbmRwb0RBPT0K"
     }
   }
 }
