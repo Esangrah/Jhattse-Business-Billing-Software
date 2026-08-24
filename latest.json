@@ -1,11 +1,11 @@
 {
   "notes": "Avyukt View",
-  "version": "2.5.22",
-  "pub_date": "2026-08-23T00:00:00Z",
+  "version": "2.5.23",
+  "pub_date": "2026-08-24T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/Esangrah/Jhattse-Business-Billing-Software/refs/heads/avyuktview/Avyukt-View_2.5.22_x64_en-US.msi",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmNmY2R2YjhiVndGcTYzV2VrRFJKZmo4MDh3TGo4NENIL0tPK3V6OFVyL0E2RWJJVjdHSjZUK0RkSnpURVlhZE4vYXovZU5haWVNNnVSbmkvaUJ0NFVSMXlZSWxGUXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NDg3MDkxCWZpbGU6QXZ5dWt0LVZpZXdfMi41LjIyX3g2NF9lbi1VUy5tc2kKVDVic2YwVDFiejFheWQ3K3M4bCtlU1dzV1VvQVRGNU5LeU5iRUgySFZ2Q0xPeE9rYnUxOUdtYk5IZU5VT0pYQ0txNGQrdFpDR0RBWE0wQzVsdXM3Qmc9PQo="
+      "url": "https://raw.githubusercontent.com/Esangrah/Jhattse-Business-Billing-Software/refs/heads/avyuktview/Avyukt-View_2.5.23_x64_en-US.msi",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdmNmY2R2YjhiVjdxUUVpajQvMGdTelIzclc4elB0VlVWbjVVelRJajRsc3JBckdiSGtkTSthQlVDUGkvcExFOXVGVTFRdDZRNEYySTJXc3EwQmE4cFRNK053Y0k2ZUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NTYxMDIxCWZpbGU6QXZ5dWt0LVZpZXdfMi41LjIzX3g2NF9lbi1VUy5tc2kKWVJ3SUFwRnBTY1VURDk5STRqWXFWK3hld2thMDdqNE1WMjY0S1dvYUJQVC83L0IzVDBSTkczZDd5RzZveVMvc0c5VlJWRXBEM2NBellrc3JIMWNJRHc9PQo="
     }
   }
 }
