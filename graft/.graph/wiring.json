@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "version": 1,
+    "nodeCount": 0,
+    "edgeCount": 0,
+    "languages": [],
+    "scopes": [
+      {
+        "prefix": "",
+        "label": "",
+        "markers": []
+      }
+    ]
+  },
+  "nodes": [],
+  "edges": []
+}
